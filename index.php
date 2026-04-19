@@ -6,11 +6,11 @@
         <div class="slider" id="main-slider">
             <div class="slide active" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-1.jpeg');">
                 <div class="slide-content">
-                    <h1>Rótulación Vehicular</h1>
-                    <p>Tu marca en movimiento con la mejor calidad de Veracruz.</p>
+                    <h1>Rótulación de Negocios</h1>
+                    <p>Tu marca con la mejor calidad de Veracruz.</p>
                 </div>
             </div>
-            <div class="slide" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-2.jpeg');">
+            <div class="slide" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/6.jpeg');">
                 <div class="slide-content">
                     <h1>Letreros Luminosos</h1>
                     <p>Haz que tu negocio destaque incluso en la oscuridad.</p>
