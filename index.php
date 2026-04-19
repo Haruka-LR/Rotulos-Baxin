@@ -7,7 +7,7 @@
             <div class="slide active" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-1.jpeg');">
                 <div class="slide-content">
                     <h1>Rótulación Vehicular</h1>
-                    <p>Tu marca en movimiento con la mejor calidad de Tizayuca.</p>
+                    <p>Tu marca en movimiento con la mejor calidad de Veracruz.</p>
                 </div>
             </div>
             <div class="slide" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-2.jpeg');">
