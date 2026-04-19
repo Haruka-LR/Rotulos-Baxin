@@ -6,7 +6,7 @@
         <div class="slider" id="main-slider">
             <div class="slide active" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-1.jpeg');">
                 <div class="slide-content">
-                    <h1>Rotulación Vehicular</h1>
+                    <h1>Rótulación Vehicular</h1>
                     <p>Tu marca en movimiento con la mejor calidad de Tizayuca.</p>
                 </div>
             </div>
@@ -34,12 +34,12 @@
         <div class="about-text">
             <span class="subtitle">Nuestra Historia</span>
             <h2>Pasión por la <span class="highlight">Rotulación</span></h2>
-            <p>En <strong>Rótulos Baxin</strong>, transformamos ideas en soluciones visuales de alto impacto. Con años de experiencia en Tizayuca, nos hemos especializado en dar vida a la imagen de negocios locales y nacionales.</p>
+            <p>En <strong>Rótulos Baxin</strong>, transformamos ideas en soluciones visuales de alto impacto. Con años de experiencia en Veracruz, nos hemos especializado en dar vida a la imagen de negocios locales y nacionales.</p>
             <p>Nuestra misión es combinar la tradición del rotulado con las técnicas más modernas de diseño y materiales de larga durabilidad.</p>
             
             <div class="stats">
                 <div class="stat-item">
-                    <span class="stat-number">+10</span>
+                    <span class="stat-number">+30</span>
                     <span class="stat-desc">Años de Exp.</span>
                 </div>
                 <div class="stat-item">
@@ -65,7 +65,7 @@
                     <img src="assets/img/1.jpeg" alt="ROTULACION  EN PINTURA (TRADICIONAL)">
                 </div>
                 <div class="card-content">
-                    <h3>ROTULACION  EN PINTURA (TRADICIONAL)</h3>
+                    <h3>RÓTULACION  EN PINTURA (TRADICIONAL)</h3>
                     <p>Publicidad en Movimiento para tu negocio.</p>
                     <a href="#" class="btn-card">Saber Más</a>
                 </div>
@@ -85,7 +85,7 @@
                 <img src="assets/img/3.jpeg" alt="Rotulacion ...">
             </div>
             <div class="card-content">
-                <h3>ROTULOS EN CORTE VINIL(POR COMPUTADORA)</h3>
+                <h3>RÓTULOS EN CORTE VINIL(POR COMPUTADORA)</h3>
                 <p>Publicidad en Movimiento para tu negocio.</p>
                 <a href="#" class="btn-card">Saber Más</a>
             </div>
