@@ -4,7 +4,7 @@
 <section class="hero-container container">
     <div class="slider-wrapper">
         <div class="slider" id="main-slider">
-            <div class="slide active" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-1.jpeg');">
+            <div class="slide active" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-1.1.jpeg');">
                 <div class="slide-content">
                     <h1>Rótulación de Negocios</h1>
                     <p>Tu marca con la mejor calidad de Veracruz.</p>
@@ -16,7 +16,7 @@
                     <p>Haz que tu negocio destaque incluso en la oscuridad.</p>
                 </div>
             </div>
-            <div class="slide" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-3.jpeg');">
+            <div class="slide" style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('assets/img/banner-3.1.jpeg');">
                 <div class="slide-content">
                     <h1>Vinilos Decorativos</h1>
                     <p>Diseños elegantes para interiores y oficinas.</p>
