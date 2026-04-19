@@ -24,8 +24,9 @@
         <div class="container">
             <img src="assets/img/logo.jpeg" alt="Rotulos Baxin" class="Logo" max=50px height=50px>
             <ul class ="nav-links">
-                <li><a href="#nosotros">Sobre Nosotros</a></li>
-                <li><a href="#contacto"class="btn-contact">Contactanos</a></li>
+                <li><a href="nosotros.php" class="btn-nosotros">Conocenos</a></li>
+                <li><a href="https://wa.me/525624564960?text=Hola,%20vengo%20de%20tu%20p%C3%A1gina%20web%20y%20me%20gustar%C3%ADa%20cotizar%20un%20servicio." 
+                class="btn-contact" target="_blank">Contáctanos</a></li>
             </ul>
         </div>
     </nav>

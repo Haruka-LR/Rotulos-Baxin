@@ -415,3 +415,54 @@ footer{
         display: none; /* Quitamos el adorno en móvil para evitar desbordes */
     }
 }
+.page-nosotros {
+    padding: 120px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.about-card-large {
+    background: white;
+    max-width: 900px;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.1);
+    overflow: hidden;
+    border-top: 8px solid var(--azul-baxin);
+}
+
+.card-header {
+    background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url('../img/banner1.jpg');
+    background-size: cover;
+    padding: 60px 40px;
+    text-align: center;
+}
+
+.card-header h1 { color: var(--azul-baxin); font-size: 2.8rem; }
+.tagline { color: var(--rojo-baxin); font-weight: bold; font-size: 1.2rem; }
+
+.card-body { padding: 40px; line-height: 1.8; color: #444; }
+
+.info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin: 40px 0;
+}
+
+.info-item h4 { color: var(--azul-baxin); margin-bottom: 10px; }
+
+.card-footer {
+    padding: 30px;
+    background: #f9f9f9;
+    text-align: center;
+}
+
+.btn-back {
+    text-decoration: none;
+    color: var(--azul-baxin);
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn-back:hover { color: var(--rojo-baxin); }

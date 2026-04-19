@@ -11,14 +11,14 @@
                     <ul>
                         <li><a href="#" style="color: #ccc; text-decoration: none;">Inicio</a></li>
                         <li><a href="#nosotros" style="color: #ccc; text-decoration: none;">Nosotros</a></li>
-                        <li><a href="#contacto" style="color: #ccc; text-decoration: none;">Contacto</a></li>
+                        <li><a href="https://wa.me/525624564960?text=Hola,%20vengo%20de%20tu%20p%C3%A1gina%20web%20y%20me%20gustar%C3%ADa%20cotizar%20un%20servicio." style="color: #ccc; text-decoration: none;">Contacto</a></li>
                     </ul>
                 </div>
 
                 <div class="footer-section">
                     <h3>Contacto</h3>
-                    <p>📍 Ubicación: Tizayuca, Hidalgo</p>
-                    <p>📞 Teléfono: (Tu número aquí)</p>
+                    <p>📍 Ubicación: Veracruz, México</p>
+                    <p>📞 Teléfono: 5624564960</p>
                     <p>📧 Email: contacto@rotulosbaxin.com</p>
                 </div>
             </div>
