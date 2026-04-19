@@ -34,7 +34,7 @@
         <div class="about-text">
             <span class="subtitle">Nuestra Historia</span>
             <h2>Pasión por la <span class="highlight">Rotulación</span></h2>
-            <p>En <strong>Rótulos Baxin</strong>, transformamos ideas en soluciones visuales de alto impacto. Con años de experiencia en Veracruz, nos hemos especializado en dar vida a la imagen de negocios locales y nacionales.</p>
+            <p>En <strong>Rótulos Baxin</strong>, transformamos ideas en soluciones visuales de alto impacto. Con años de experiencia en <strong>Veracruz</strong>, nos hemos especializado en dar vida a la imagen de negocios locales y nacionales.</p>
             <p>Nuestra misión es combinar la tradición del rotulado con las técnicas más modernas de diseño y materiales de larga durabilidad.</p>
             
             <div class="stats">
@@ -56,6 +56,44 @@
         </div>
     </div>
 </section>
+
+    <section class="container page-nosotros">
+        <section class="about-card-large reveal">
+        <div class="card-header">
+            <h1>Sobre Rótulos Baxin</h1>
+            <p class="tagline">Calidad que se nota, durabilidad que convence.</p>
+        </div>
+        
+        <div class="card-body">
+            <div class="info-block">
+                <h3>Nuestra Misión</h3>
+                <p>Brindar soluciones de imagen publicitaria de alta calidad a través de técnicas de rotulación innovadoras, ayudando a nuestros clientes a destacar sus negocios en Veracruz.</p>
+            </div>
+
+            <div class="info-grid">
+                <div class="info-item">
+                    <i class="fas fa-check-circle"></i>
+                    <h4>Experiencia</h4>
+                    <p>Más de 30 años en el mercado respaldan cada trazo y cada instalación.</p>
+                </div>
+                <div class="info-item">
+                    <i class="fas fa-tools"></i>
+                    <h4>Tecnología</h4>
+                    <p>Utilizamos materiales de primera y herramientas modernas para acabados perfectos.</p>
+                </div>
+            </div>
+
+            <div class="full-description">
+                <h3>¿Quiénes somos?</h3>
+                <p>Rótulos Baxin nació como un taller familiar y ha crecido gracias a la confianza de nuestros clientes. Nos apasiona la rotulación vehicular, los letreros luminosos y todo lo que implique transformar un espacio comercial en un imán para los ojos.</p>
+            </div>
+        </div>
+
+        <div class="card-footer">
+            <a href="index.php" class="btn-back"> <Strong> INICIO </Strong> </a>
+        </div>
+        </section>
+    </section>
 
     <section class="servicios container">
         <h2 class="section-title">Nuestros Servicios</h2>

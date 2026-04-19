@@ -432,7 +432,7 @@ footer{
 }
 
 .card-header {
-    background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url('../img/banner1.jpg');
+    background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url('/assets/img/banner1.jpg');
     background-size: cover;
     padding: 60px 40px;
     text-align: center;
