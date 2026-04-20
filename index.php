@@ -88,10 +88,6 @@
                 <p>Rótulos Baxin nació como un taller familiar y ha crecido gracias a la confianza de nuestros clientes. Nos apasiona la rotulación vehicular, los letreros luminosos y todo lo que implique transformar un espacio comercial en un imán para los ojos.</p>
             </div>
         </div>
-
-        <div class="card-footer">
-            <a href="index.php" class="btn-back"> <Strong> INICIO </Strong> </a>
-        </div>
         </section>
     </section>
 
