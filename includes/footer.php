@@ -18,8 +18,8 @@
                 <div class="footer-section">
                     <h3>Contacto</h3>
                     <p>📍 Ubicación: Veracruz, México</p>
-                    <p>📞 Teléfono: 5624564960</p>
-                    <p>📧 Email: contacto@rotulosbaxin.com</p>
+                    <p>📞 Teléfono: +52 229 244 3523</p>
+                    <p>📧 Email: baxin472@gmail.com</p>
                 </div>
             </div>
 

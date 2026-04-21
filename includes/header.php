@@ -36,7 +36,7 @@
                 <li><a href="#nosotros" class="nav-item">Conócenos</a></li>
                 <li><a href="#galeria" class="nav-item">Galería</a></li>
                 <li>
-                    <a href="https://wa.me/525624564960?text=Hola,%20me%20gustar%C3%ADa%20cotizar%20un%20servicio." 
+                    <a href="https://wa.me/522292443523?text=Hola,%20me%20gustar%C3%ADa%20cotizar%20un%20servicio." 
                        class="btn-whatsapp-header" target="_blank">
                        <i class="fab fa-whatsapp"></i> WhatsApp
                     </a>
@@ -45,7 +45,7 @@
         </div>
     </nav>
 
-    <a href="https://wa.me/525624564960?text=Hola,%20me%20gustar%C3%ADa%20cotizar%20un%20servicio." 
+    <a href="https://wa.me/522292443523?text=Hola,%20me%20gustar%C3%ADa%20cotizar%20un%20servicio." 
        class="whatsapp-float" target="_blank">
         <i class="fab fa-whatsapp"></i>
     </a>
