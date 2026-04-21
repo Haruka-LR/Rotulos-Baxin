@@ -91,6 +91,69 @@
         </section>
     </section>
 
+    <section id="galeria" class="galeria-section">
+    <div class="container">
+        <div class="section-header">
+            <h2 class="galeria-title">Galería</h2>
+            <p class="galeria-subtitle">Nuestros trabajos y especialidades</p>
+        </div>
+
+        <div class="galeria-container">
+            <div class="galeria-slider">
+                <div class="galeria-item active">
+                    <img src="assets/img/Galeria-1.jpeg" alt="Rotulación ">
+                </div>
+                <div class="galeria-item">
+                    <img src="assets/img/Galeria-2.jpeg" alt="Letrero ">
+                </div>
+                <div class="galeria-item">
+                    <img src="assets/img/Galeria-3.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-4.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-5.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-6.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-7.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-8.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-9.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-10.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-11.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-12.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-13.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-14.jpeg" alt="">
+                </div>
+                                <div class="galeria-item">
+                    <img src="assets/img/Galeria-15.jpeg" alt="">
+                </div>
+
+            </div>
+            
+            <button class="galeria-prev"><i class="fas fa-chevron-left"></i></button>
+            <button class="galeria-next"><i class="fas fa-chevron-right"></i></button>
+        </div>
+    </div>
+</section>
+
     <section class="servicios container">
         <h2 class="section-title">Nuestros Servicios</h2>
         <div class="cards-grid">
@@ -169,7 +232,7 @@
         </div>
         <div class="card reveal delay-7">
             <div class="card-image">
-                <img src="assets/img/6.jpeg" alt="Rotulacion ...">
+                <img src="assets/img/7.jpeg" alt="Rotulacion ...">
             </div>
             <div class="card-content">
                 <h3>BASTIDORES </h3>
