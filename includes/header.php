@@ -9,7 +9,7 @@
     <meta name="description" content="Rótulos Baxin, Especialistas en rotulación profesional, diseño de letreros y publicidad visual en Veracruz.">
     <meta name="keywords" content="rótulos en Veracruz, rótulos cerca de mi, rótulos en mi ubicación, rótulos Veracruz, Rotulos Baxin,rotulos baxin,rotulos veracruz, rotulación veracruz,
     letreros luminosos, vinilos publicitarios, Rótulos Baxin, Veracruz, rotulos, Rotulos, Rotulos Baxin">
-    <link rel="stylesheet" href="assets/css/styles.css?v=1.1">
+    <link rel="stylesheet" href="assets/css/styles.css?v=1.2">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://rotulosbaxin.com.mx/">
